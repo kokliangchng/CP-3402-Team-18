@@ -1,0 +1,2 @@
+[18-May-2017 05:42:36 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wpum_postmeta` WHERE `meta_id` = 523 made by do_action_ref_array, WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, do_all_pings, delete_metadata_by_mid
+[18-May-2017 11:43:35 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/chngk556/public_html/assignment2/wp-content/themes/cista/functions.php on line 15
